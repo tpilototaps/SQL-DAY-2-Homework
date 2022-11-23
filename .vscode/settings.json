@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "connectString": "postgres://jykozofl:TFo5qVhPO2bd87GqRe1dKKnSffNNm6cj@peanut.db.elephantsql.com/jykozofl",
+            "name": "Movie_Database"
+        }
+    ]
+}
